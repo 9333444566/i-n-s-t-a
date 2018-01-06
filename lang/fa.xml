@@ -1,0 +1,1446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>    
+  <lang slug="Processing">  
+    <text>در حال پردازش</text>
+  </lang>
+  <lang slug="Queue"> 
+    <text>Queue</text>
+  </lang>
+  <lang slug="Failure"> 
+    <text>Failure</text>
+  </lang>
+  <lang slug="Repeat">  
+    <text>تکرار</text>
+  </lang>
+  <lang slug="Complete">  
+    <text>تکمیل شد</text>
+  </lang>
+  <lang slug="Post successfully"> 
+    <text>با موفقیت پست شد</text>
+  </lang>
+  <lang slug="Successfully">  
+    <text>موفقیت آمیز</text>
+  </lang>
+  <lang slug="Auto Activity"> 
+    <text>فعالیت های خودکار</text>
+  </lang>
+  <lang slug="Auto activity"> 
+    <text>فعالیت های خودکار</text>
+  </lang>
+  <lang slug="Add new"> 
+    <text>ایجاد</text>
+  </lang>
+  <lang slug="Sort:"> 
+    <text>مرتب سازی:</text>
+  </lang>
+  <lang slug="-"> 
+    <text>-</text>
+  </lang>
+  <lang slug="Username">  
+    <text>نام کاربری</text>
+  </lang>
+  <lang slug="Time">  
+    <text>زمان</text>
+  </lang>
+  <lang slug="Filter:"> 
+    <text>فیلتر:</text>
+  </lang>
+  <lang slug="Started"> 
+    <text>شروع شده</text>
+  </lang>
+  <lang slug="Stoped">  
+    <text>متوقف شده</text>
+  </lang>
+  <lang slug="No time"> 
+    <text>بدون زمان</text>
+  </lang>
+  <lang slug="Search by username">  
+    <text>جستجوی کاربر</text>
+  </lang>
+  <lang slug="Search">  
+    <text>جستجو</text>
+  </lang>
+  <lang slug="Instagram"> 
+    <text>اینستاگرام</text>
+  </lang>
+  <lang slug="Activity">  
+    <text>فعالیت</text>
+  </lang>
+  <lang slug="Likes"> 
+    <text>لایک</text>
+  </lang>
+  <lang slug="Comments">  
+    <text>کامنت</text>
+  </lang>
+  <lang slug="Follows"> 
+    <text>فالو</text>
+  </lang>
+  <lang slug="Follow back"> 
+    <text>فالوبَک</text>
+  </lang>
+  <lang slug="Unfollows"> 
+    <text>آنفالو</text>
+  </lang>
+  <lang slug="Repost">  
+    <text>پست مجدد</text>
+  </lang>
+  <lang slug="Stop">  
+    <text>توقف</text>
+  </lang>
+  <lang slug="Start"> 
+    <text>شروع</text>
+  </lang>
+  <lang slug="Settings">  
+    <text>تنظیمات</text>
+  </lang>
+  <lang slug="More">  
+    <text>بیشتر</text>
+  </lang>
+  <lang slug="Log"> 
+    <text>گزارش</text>
+  </lang>
+  <lang slug="Profile"> 
+    <text>پروفایل</text>
+  </lang>
+  <lang slug="Disconnect">  
+    <text>قطع اتصال</text>
+  </lang>
+  <lang slug="No recent activity">  
+    <text>اخیراً فعالیتی انجام نشده</text>
+  </lang>
+  <lang slug="Accounts">  
+    <text>این تنظیمات بر روی کدام اکانت های اینستاگرام اعمال گردد ؟</text>
+  </lang>
+  <lang slug="To do"> 
+    <text>چه فعالیت هایی به صورت خودکار انجام شود ؟</text>
+  </lang>
+  <lang slug="Like">  
+    <text>لایک خودکار پست های مخاطبین</text>
+  </lang>
+  <lang slug="Comment"> 
+    <text>ارسال کامنت زیر پست مخاطبین</text>
+  </lang>
+  <lang slug="Follow">  
+    <text>فالوی خودکار مخاطبین</text>
+  </lang>
+  <lang slug="Unfollow">  
+    <text>آنفالو خودکار</text>
+  </lang>
+  <lang slug="Repost media">  
+    <text>پست مجدد رسانه</text>
+  </lang>
+  <lang slug="Targeting"> 
+    <text>مخاطبین فعالیت های خودکار از چه روشی جمع آوری شوند؟</text>
+  </lang>
+  <lang slug="Hashtags">  
+    <text>هشتگ پست های ارسالی</text>
+  </lang>
+  <lang slug="Locations"> 
+    <text>مکان پست های ارسالی</text>
+  </lang>
+  <lang slug="Usernames"> 
+    <text>کاربران اینستاگرام</text>
+  </lang>
+  <lang slug="Timeline Feed"> 
+    <text>تایم لاین - TimeLine</text>
+  </lang>
+  <lang slug="Popular feed">  
+    <text>محبوب ترین های اینستاگرام</text>
+  </lang>
+  <lang slug="Your Feed"> 
+    <text>اکانت خودتان</text>
+  </lang>
+  <lang slug="Explore Tab Feed">  
+    <text>تب Explore</text>
+  </lang>
+  <lang slug="Speed"> 
+    <text>فعالیت های خودکار با چه سرعتی انجام شود؟</text>
+  </lang>
+  <lang slug="Activity speed">  
+    <text>سرعت فعالیت</text>
+  </lang>
+  <lang slug="Slow">  
+    <text>آهسته</text>
+  </lang>
+  <lang slug="Medium">  
+    <text>عادی</text>
+  </lang>
+  <lang slug="Fast">  
+    <text>سریع</text>
+  </lang>
+  <lang slug="Likes / hour (post)"> 
+    <text>تعداد لایک در هر ساعت</text>
+  </lang>
+  <lang slug="Comments / hour (post)">  
+    <text>تعداد کامنت در هر ساعت</text>
+  </lang>
+  <lang slug="Follows / hour (post)"> 
+    <text>تعداد فالو در هر ساعت</text>
+  </lang>
+  <lang slug="Follows back / hour (post)">  
+    <text>تعداد فالوبک در هر ساعت</text>
+  </lang>
+  <lang slug="Unfollows / hour (post)"> 
+    <text>تعداد آنفالو در هر ساعت</text>
+  </lang>
+  <lang slug="Reposts / hour (post)"> 
+    <text>تعداد پست به اشتراک گذاشته شده از اکانت دیگران در هر ساعت</text>
+  </lang>
+  <lang slug="Delay on each account (minutes)"> 
+    <text>توقف بر روی هر اکانت (دقیقه)</text>
+  </lang>
+  <lang slug="Add"> 
+    <text>اضافه کردن</text>
+  </lang>
+  <lang slug="Delete all">  
+    <text>حذف همه</text>
+  </lang>
+  <lang slug="Delete all locations">  
+    <text>حذف همه مکان ها</text>
+  </lang>
+  <lang slug="Delete all usernames">  
+    <text>حذف همه کاربران اینستاگرام</text>
+  </lang>
+  <lang slug="Message"> 
+    <text>پیغام</text>
+  </lang>
+  <lang slug="Submit">  
+    <text>تائید</text>
+  </lang>
+  <lang slug="2016 - 2017 © VTCreators. All rights reserved.">  
+    <text>تمامی حقوق محفوظ و متعلق به وب سایت هاوس می باشد</text>
+  </lang>
+  <lang slug="Pricing"> 
+    <text>قیمت</text>
+  </lang>
+  <lang slug="Support"> 
+    <text>پشتیبانی</text>
+  </lang>
+  <lang slug="Hi">  
+    <text>خوش آمدید</text>
+  </lang>
+  <lang slug="MAIN NAVIGATION"> 
+    <text>راهبری اصلی</text>
+  </lang>
+  <lang slug="Dashboard"> 
+    <text>داشبورد</text>
+  </lang>
+  <lang slug="dashboard"> 
+    <text>داشبورد</text>
+  </lang>
+  <lang slug="Instagram accounts">  
+    <text>اکانت اینستاگرام</text>
+  </lang>
+  <lang slug="Instagram account">  
+    <text>اکانت اینستاگرام</text>
+  </lang>
+  <lang slug="Logs">  
+    <text>گزارشات</text>
+  </lang>
+  <lang slug="INSTAGRAM TOOLS"> 
+    <text>ابزارهای اینستاگرام</text>
+  </lang>
+  <lang slug="Schedule post"> 
+    <text>پست های زمان بندی شده</text>
+  </lang>
+  <lang slug="Save posts">  
+    <text>پست های ذخیره شده</text>
+  </lang>
+  <lang slug="Schedule message">  
+    <text>پیغام های زمان بندی شده</text>
+  </lang>
+  <lang slug="Instagram search">  
+    <text>جستجوی اینستاگرام</text>
+  </lang>
+    <lang slug=" Instagram search
+                    ">  
+    <text>جستجوی اینستاگرام</text>
+  </lang>
+  <lang slug="Instagram download">  
+    <text>دانلود از اینستاگرام</text>
+  </lang>
+  <lang slug="ADMIN AREA">  
+    <text>ناحیه مدیریتی</text>
+  </lang>
+  <lang slug="Payment management">  
+    <text>مدیریت پرداخت</text>
+  </lang>
+  <lang slug="Package settings">  
+    <text>تنظیمات پکیج ها</text>
+  </lang>
+  <lang slug="Payment settings">  
+    <text>تنظیمات پرداخت</text>
+  </lang>
+  <lang slug="Payment history"> 
+    <text>تاریخچه پرداخت ها</text>
+  </lang>
+  <lang slug="User management"> 
+    <text>مدیریت کاربران</text>
+  </lang>
+  <lang slug="VT Creators Team">  
+    <text>وب سایت هاوس</text>
+  </lang>
+  <lang slug="Select at least a item">  
+    <text>حداقل یک آیتم انتخاب کنید</text>
+  </lang>
+  <lang slug="Select at least a Page/Group/Profile">  
+    <text>حداقل یک صفحه/گروه/پروفایل انتخاب کنید</text>
+  </lang>
+  <lang slug="Instagram account not exist"> 
+    <text>اکانت اینستاگرام وجود ندارد</text>
+  </lang>
+  <lang slug="Account"> 
+    <text>اکانت</text>
+  </lang>
+  <lang slug="REPORT ACTIVITY"> 
+    <text>فعالیت ها در یک نگاه</text>
+  </lang>
+  <lang slug="Follows back">  
+    <text>فالوبک</text>
+  </lang>
+  <lang slug="Repost post"> 
+    <text>Repost post</text>
+  </lang>
+  <lang slug="Total process"> 
+    <text>مجموع</text>
+  </lang>
+  <lang slug="Repost message">  
+    <text>Repost message</text>
+  </lang>
+  <lang slug="Please enther media url or media ID"> 
+    <text>Please enther media url or media ID</text>
+  </lang>
+  <lang slug="Keyword is required"> 
+    <text>Keyword is required</text>
+  </lang>
+  <lang slug="Download">  
+    <text>دانلود</text>
+  </lang>
+  <lang slug="Link media or media ID">  
+    <text>Link media or media ID</text>
+  </lang>
+  <lang slug="LOGIN"> 
+    <text>ورود به پنل</text>
+  </lang>
+  <lang slug="Login"> 
+    <text>ورود به پنل</text>
+  </lang>
+  <lang slug="REGISTER">  
+    <text>عضویت آزمایشی</text>
+  </lang>
+  <lang slug="Register">  
+    <text>عضویت آزمایشی</text>
+  </lang>
+  <lang slug="Email"> 
+    <text>پست الکترونیکی</text>
+  </lang>
+  <lang slug="Password">  
+    <text>کلمه عبور</text>
+  </lang>
+  <lang slug="OR LOGIN VIA">  
+    <text>و یا با شبکه های اجتماعی وارد شوید :</text>
+  </lang>
+  <lang slug="Fullname">  
+    <text>نام و نام خانوادگی</text>
+  </lang>
+  <lang slug="Email Address"> 
+    <text>پست الکترونیکی</text>
+  </lang>
+  <lang slug="Confirm password">  
+    <text>تکرار کلمه عبور</text>
+  </lang>
+    
+  <lang slug="Select your timezone to start your campaign"> 
+    <text>برای شروع منطقه زمانی خود را انتخاب کنید (ایران +4.5 است)</text>
+  </lang>
+  <lang slug="Save">  
+    <text>ذخیره</text>
+  </lang>
+  <lang slug="Please input all fields"> 
+    <text>لطفا تمام فیلد ها را پر کنید</text>
+  </lang>
+  <lang slug="This instagram account already exists"> 
+    <text>این اکانت اینستاگرام در حال حاضر در پنل ثبت شده است</text>
+  </lang>
+  <lang slug="Oh sorry! You have exceeded the number of accounts allowed, You are only allowed to update your account"> 
+    <text>با عرض پوزش، شما از حداکثر تعداد اکانت هایتان استفاده کرده اید، برای اضافه کردن اکانت باید حساب کاربری خود را ارتقا دهید</text>
+  </lang>
+  <lang slug="Update successfully"> 
+    <text>با موفقیت به روز شد</text>
+  </lang>
+  <lang slug="Update failure">  
+    <text>به روز رسانی با خطا مواجه شد</text>
+  </lang>
+  <lang slug="Action">  
+    <text>اقدامات</text>
+  </lang>
+  <lang slug="Active">  
+    <text>فعال</text>
+  </lang>
+  <lang slug="Deactive">  
+    <text>غیرفعال</text>
+  </lang>
+  <lang slug="Delete">  
+    <text>حذف</text>
+  </lang>
+  <lang slug="User">  
+    <text>کاربر</text>
+  </lang>
+  <lang slug="Instagram ID">  
+    <text>شناسه اینستاگرام</text>
+  </lang>
+  <lang slug="Update Token">  
+    <text>به روز رسانی توکن</text>
+  </lang>
+  <lang slug="Status">  
+    <text>وضعیت</text>
+  </lang>
+  <lang slug="Option">  
+    <text>تنظیمات</text>
+  </lang>
+  <lang slug="Are you sure you want to delete this item?">  
+    <text>آیا از حذف این آیتم اطمینان دارید ؟</text>
+  </lang>
+  <lang slug="Update Instagram account">  
+    <text>به روزرسانی حساب کاربری اینستاگرام</text>
+  </lang>
+  <lang slug="Instagram username">  
+    <text>نام کاربری حساب کاربری اینستاگرام</text>
+  </lang>
+  <lang slug="Instagram password">  
+    <text>کلمه عبور حساب کاربری اینستاگرام</text>
+  </lang>
+  <lang slug="Back">  
+    <text>بازگشت</text>
+  </lang>
+  <lang slug="Activity Log">  
+    <text>گزارش فعالیت ها</text>
+  </lang>
+  <lang slug="Liked media"> 
+    <text>لایک رسانه</text>
+  </lang>
+  <lang slug="Commented media"> 
+    <text>کامنت رسانه</text>
+  </lang>
+  <lang slug="Followed user"> 
+    <text>کاربر فالو شد</text>
+  </lang>
+  <lang slug="Unfollowed user"> 
+    <text>کاربر آنفالو شده</text>
+  </lang>
+  <lang slug="Followed back user">  
+    <text>کاربر فالو بک شده</text>
+  </lang>
+  <lang slug="Reposted media">  
+    <text>رسانه مجدد پست شده</text>
+  </lang>
+  <lang slug="All"> 
+    <text>همه</text>
+  </lang>
+  <lang slug="Folow"> 
+    <text>فالو</text>
+  </lang>
+  <lang slug="All accounts">  
+    <text>حساب کاربری اینستاگرام</text>
+  </lang>
+  <lang slug="results"> 
+    <text>نتیجه</text>
+  </lang>
+  <lang slug="No recent actions"> 
+    <text>هنوز اقدامی انجام نشده</text>
+  </lang>
+  <lang slug="Auto direct message"> 
+    <text>دایرکت مسیج خودکار</text>
+  </lang>
+  <lang slug="Message is required"> 
+    <text>پیغام الزامی است</text>
+  </lang>
+  <lang slug="Time post is required"> 
+    <text>وارد کردن زمان ارسال پست الزامی است</text>
+  </lang>
+  <lang slug="Cannot found any users">  
+    <text>کاربری پیدا نشد</text>
+  </lang>
+  <lang slug="Limit"> 
+    <text>تعداد ارسال</text>
+  </lang>
+  <lang slug="Type">  
+    <text>نوع</text>
+  </lang>
+  <lang slug="Followers"> 
+    <text>فالوئر</text>
+  </lang>
+  <lang slug="Following"> 
+    <text>فالوئینگ</text>
+  </lang>
+  <lang slug="Write something...">  
+    <text>توضیحات را اینجا بنویسید ...</text>
+  </lang>
+  <lang slug="Time Post"> 
+    <text>زمان ارسال پست</text>
+  </lang>
+  <lang slug="Time post"> 
+    <text>شروع ارسال</text>
+  </lang>
+  <lang slug="Delay (minutes)"> 
+    <text>وقفه (دقیقه)</text>
+  </lang>
+  <lang slug="minutes"> 
+    <text>دقیقه</text>
+  </lang>
+  <lang slug="Auto pause after complete"> 
+    <text>توقف موقت</text>
+  </lang>
+  <lang slug="No">  
+    <text>خیر</text>
+  </lang>
+  <lang slug="posts"> 
+    <text>ارسال</text>
+  </lang>
+  <lang slug="Time pause">  
+    <text>زمان توقف موقت</text>
+  </lang>
+  <lang slug="Repeat Post"> 
+    <text>تکرار پست</text>
+  </lang>
+  <lang slug="Repeat post"> 
+    <text>تکرار ارسال</text>
+  </lang>
+  <lang slug="days">  
+    <text>روز</text>
+  </lang>
+  <lang slug="End day"> 
+    <text>پایان ارسال</text>
+  </lang>
+  <lang slug="Save the schedule"> 
+    <text>ذخیره و برنامه ریزی ارسال</text>
+  </lang>
+  <lang slug="Name is required">  
+    <text>نام الزامی است</text>
+  </lang>
+  <lang slug="Price is required"> 
+    <text>قیمت الزامی است</text>
+  </lang>
+  <lang slug="Day is required"> 
+    <text>روز الزامی است</text>
+  </lang>
+  <lang slug="Name">  
+    <text>نام</text>
+  </lang>
+  <lang slug="Price"> 
+    <text>قیمت</text>
+  </lang>
+  <lang slug="Day"> 
+    <text>روز</text>
+  </lang>
+  <lang slug="Default"> 
+    <text>پیش فرض</text>
+  </lang>
+  <lang slug="Update package">  
+    <text>به روز رسانی پکیج</text>
+  </lang>
+  <lang slug="Package name">  
+    <text>نام پکیج</text>
+  </lang>
+  <lang slug="Package price"> 
+    <text>قیمت پکیج</text>
+  </lang>
+  <lang slug="Package day"> 
+    <text>تعداد روز پکیج</text>
+  </lang>
+  <lang slug="Package order"> 
+    <text>سفارش پکیج</text>
+  </lang>
+  <lang slug="Package default"> 
+    <text>پکیج پیش فرض</text>
+  </lang>
+  <lang slug="Yes"> 
+    <text>بله</text>
+  </lang>
+  <lang slug="Free">  
+    <text>رایگان</text>
+  </lang>
+  <lang slug="Trial"> 
+    <text>آزمایشی</text>
+  </lang>
+  <lang slug="Maximum Instagram account on user"> 
+    <text>حداکثر تعداد اکانت اینستاگرام روی حساب کاربری</text>
+  </lang>
+  <lang slug="List modules">  
+    <text>لیست ماژول ها</text>
+  </lang>
+  <lang slug="Auto post"> 
+    <text>پست گذاری خودکار</text>
+  </lang>
+  <lang slug="Auto message">  
+    <text>ارسال پیغام خودکار</text>
+  </lang>
+  <lang slug="Invoice"> 
+    <text>صورتحساب</text>
+  </lang>
+  <lang slug="First name">  
+    <text>نام</text>
+  </lang>
+  <lang slug="Last name"> 
+    <text>نام خانوادگی</text>
+  </lang>
+  <lang slug="Receiver email">  
+    <text>پست الکترونیکی دریافت کننده</text>
+  </lang>
+  <lang slug="Payer email"> 
+    <text>پست الکترونیکی پرداخت کننده</text>
+  </lang>
+  <lang slug="Package"> 
+    <text>پکیج</text>
+  </lang>
+  <lang slug="Currency">  
+    <text>واحد پولی</text>
+  </lang>
+  <lang slug="Street">  
+    <text>خیابان</text>
+  </lang>
+  <lang slug="City">  
+    <text>شهر</text>
+  </lang>
+  <lang slug="Country"> 
+    <text>کشور</text>
+  </lang>
+  <lang slug="Payment date">  
+    <text>تاریخ پرداخت</text>
+  </lang>
+  <lang slug="Payment status">  
+    <text>وضعیت پرداخت</text>
+  </lang>
+  <lang slug="Paypal email is required">  
+    <text>ایمیل پی پال الزامی است</text>
+  </lang>
+  <lang slug="Currency is required">  
+    <text>ورود واحد پولی الزامی است</text>
+  </lang>
+  <lang slug="Paypal email">  
+    <text>ایمیل پی پال</text>
+  </lang>
+  <lang slug="Currency symbol"> 
+    <text>نماد واحد پولی</text>
+  </lang>
+  <lang slug="PICK THE BEST PLAN FOR YOU!"> 
+    <text>پیشنهاد ویژه</text>
+  </lang>
+  <lang slug="Auto search"> 
+    <text>جستجوی خودکار</text>
+  </lang>
+  <lang slug="Auto download"> 
+    <text>دانلود خودکار</text>
+  </lang>
+  <lang slug="UPGRADE NOW"> 
+    <text>حساب کاربری خود را ارتقا دهید</text>
+  </lang>
+  <lang slug="Video is required"> 
+    <text>ویدئو الزامی است</text>
+  </lang>
+  <lang slug="Image is required"> 
+    <text>تصویر الزامی است</text>
+  </lang>
+  <lang slug="Have problem with this item"> 
+    <text>با این مورد مشکلی دارید ؟</text>
+  </lang>
+  <lang slug="Select at least a instagram account"> 
+    <text>اکانت اینستاگرام را انتخاب کنید</text>
+  </lang>
+  <lang slug="The error occurred during processing">  
+    <text>یک خطای غیر منتظره در هنگام پردازش رخ داد</text>
+  </lang>
+  <lang slug="PHOTO"> 
+    <text>عکس</text>
+  </lang>
+  <lang slug="STORY PHOTO"> 
+    <text>استوری عکس</text>
+  </lang>
+  <lang slug="VIDEO"> 
+    <text>ویدئو</text>
+  </lang>
+  <lang slug="Image"> 
+    <text>عکس</text>
+  </lang>
+  <lang slug="Upload">  
+    <text>بارگذاری</text>
+  </lang>
+  <lang slug="Video URL"> 
+    <text>آدرس ویدئو</text>
+  </lang>
+  <lang slug="Delay (seconds)"> 
+    <text>وقفه (ثانیه)</text>
+  </lang>
+  <lang slug="seconds"> 
+    <text>ثانیه</text>
+  </lang>
+  <lang slug="Save post"> 
+    <text>ذخیره پست</text>
+  </lang>
+  <lang slug="Post now">  
+    <text>هم اکنون ارسال کن</text>
+  </lang>
+  <lang slug="Schedule">  
+    <text>زمان بندی</text>
+  </lang>
+  <lang slug="Pause"> 
+    <text>مکث</text>
+  </lang>
+  <lang slug="Resume">  
+    <text>ادامه</text>
+  </lang>
+  <lang slug="Time left:">  
+    <text>زمان باقی مانده:</text>
+  </lang>
+  <lang slug="Preview"> 
+    <text>پیش نمایش</text>
+  </lang>
+  <lang slug="Anonymous"> 
+    <text>WebsiteHouse.ir</text>
+  </lang>
+  <lang slug="like this"> 
+    <text>like this</text>
+  </lang>
+  <lang slug="Add a comment…">  
+    <text>Add a comment…</text>
+  </lang>
+  <lang slug="Save list"> 
+    <text>ذخیره لیست</text>
+  </lang>
+  <lang slug="Select Instagram Accounts"> 
+    <text>انتخاب اکانت اینستاگرام</text>
+  </lang>
+  <lang slug="All categories">  
+    <text>تمام دسته بندی ها</text>
+  </lang>
+  <lang slug="Add new category">  
+    <text>افزودن دسته بندی</text>
+  </lang>
+  <lang slug="Update category"> 
+    <text>به روز رسانی دسته بندی</text>
+  </lang>
+  <lang slug="Remove category selected">  
+    <text>حذف دسته بندی انتخاب شده</text>
+  </lang>
+  <lang slug="Privacy"> 
+    <text>حریم شخصی</text>
+  </lang>
+  <lang slug="Link">  
+    <text>لینک</text>
+  </lang>
+  <lang slug="Process"> 
+    <text>پردازش</text>
+  </lang>
+  <lang slug="______">  
+    <text>______</text>
+  </lang>
+  <lang slug="Visit page">  
+    <text>مشاهده صفحه</text>
+  </lang>
+  <lang slug="Select category"> 
+    <text>انتخاب دسته بندی</text>
+  </lang>
+  <lang slug="Update">  
+    <text>به روز رسانی</text>
+  </lang>
+  <lang slug="Auto like"> 
+    <text>لایک خودکار</text>
+  </lang>
+  <lang slug="Reconect">  
+    <text>اتصال مجدد</text>
+  </lang>
+  <lang slug="Auto Repost Media"> 
+    <text>Auto Repost Media</text>
+  </lang>
+  <lang slug="Location">  
+    <text>مکان</text>
+  </lang>
+  <lang slug="Delete all hashtags"> 
+    <text>حذف تمامی #هشتگ_ها</text>
+  </lang>
+  <lang slug="Add now"> 
+    <text>هم اکنون اضافه کنید</text>
+  </lang>
+  <lang slug="Save management"> 
+    <text>مدیریت پست های ذخیره شده</text>
+  </lang>
+  <lang slug="Save successfully"> 
+    <text>با موفقیت ذخیره شد</text>
+  </lang>
+  <lang slug="Category">  
+    <text>دسته بندی</text>
+  </lang>
+  <lang slug="Schedules"> 
+    <text>جدول زمان بندی</text>
+  </lang>
+  <lang slug="Select at least one account instagram"> 
+    <text>اکانت اینستاگرام را انتخاب کنید</text>
+  </lang>
+  <lang slug="Activity not exist">  
+    <text>فعالیتی ثبت نشده</text>
+  </lang>
+  <lang slug="Are you sure you want to delete all items?">  
+    <text>آیا از حذف همه ی آیتم ها اطمینان دارید ؟</text>
+  </lang>
+  <lang slug="Created"> 
+    <text>ایجاد شده در</text>
+  </lang>
+  <lang slug="Instagram account does not exist">  
+    <text>اکانت اینستاگرام وجود ندارد</text>
+  </lang>
+  <lang slug="Please enter hashtag">  
+    <text>لطفا #هشتگ وارد کنید</text>
+  </lang>
+  <lang slug="Please enter location"> 
+    <text>لطفا مکان وارد کنید</text>
+  </lang>
+  <lang slug="Please enter username"> 
+    <text>نام کاربری خود را وارد کنید</text>
+  </lang>
+  <lang slug="Add Comments">  
+    <text>افزودن کامنت</text>
+  </lang>
+  <lang slug="taga,tagb,tagc,...">  
+    <text>taga,tagb,tagc,...</text>
+  </lang>
+  <lang slug="Add Tags">  
+    <text>افزودن تگ</text>
+  </lang>
+  <lang slug="Close"> 
+    <text>بستن</text>
+  </lang>
+  <lang slug="Add Messages">  
+    <text>افزودن پیام</text>
+  </lang>
+  <lang slug="comment a,comment b,comment c,..."> 
+    <text>comment a,comment b,comment c,...</text>
+  </lang>
+  <lang slug="Add Locations"> 
+    <text>افزودن مکان</text>
+  </lang>
+  <lang slug="Enter location name"> 
+    <text>نام مکان را وارد کنید</text>
+  </lang>
+  <lang slug="Search Tag">  
+    <text>برچسب جستجو</text>
+  </lang>
+  <lang slug="Add Multi Tags">  
+    <text>افزودن چند برچسب</text>
+  </lang>
+  <lang slug="Hashtag"> 
+    <text>هشتگ</text>
+  </lang>
+  <lang slug="Add Usernames"> 
+    <text>افزودن نام کاربری</text>
+  </lang>
+  <lang slug="No."> 
+    <text>شماره</text>
+  </lang>
+  <lang slug="ID">  
+    <text>شناسه</text>
+  </lang>
+  <lang slug="Media count"> 
+    <text>شمارنده رسانه</text>
+  </lang>
+  <lang slug="Avatar">  
+    <text>تصویر پروفایل</text>
+  </lang>
+  <lang slug="Private"> 
+    <text>خصوصی</text>
+  </lang>
+  <lang slug="Verified">  
+    <text>تائید شده</text>
+  </lang>
+  <lang slug="Keyword"> 
+    <text>کلمه کلیدی</text>
+  </lang>
+  <lang slug="Website title is required"> 
+    <text>عنوان وب سایت الزامی است</text>
+  </lang>
+  <lang slug="Public key is required">  
+    <text>کلیدی عمومی الزامی است</text>
+  </lang>
+  <lang slug="Secret key is required">  
+    <text>Secret key is required</text>
+  </lang>
+  <lang slug="LICENSE"> 
+    <text>LICENSE</text>
+  </lang>
+  <lang slug="Purchase code"> 
+    <text>Purchase code</text>
+  </lang>
+  <lang slug="GENARAL"> 
+    <text>عمومی</text>
+  </lang>
+  <lang slug="SCHEDULE DEFAULT">  
+    <text>برنامه عمومی</text>
+  </lang>
+  <lang slug="POST DEFAULT">  
+    <text>POST DEFAULT</text>
+  </lang>
+  <lang slug="LOGIN SOCIAL">  
+    <text>LOGIN SOCIAL</text>
+  </lang>
+  <lang slug="LINK SOCIAL PAGE">  
+    <text>LINK SOCIAL PAGE</text>
+  </lang>
+  <lang slug="Website name">  
+    <text>نام وب سایت</text>
+  </lang>
+  <lang slug="Website description"> 
+    <text>توضیحات وب سایت</text>
+  </lang>
+  <lang slug="Website keywords">  
+    <text>کلمات کلیدی وب سایت</text>
+  </lang>
+  <lang slug="Website logo">  
+    <text>لوگوی وب سایت</text>
+  </lang>
+  <lang slug="Theme color"> 
+    <text>رنگ زمینه قالب</text>
+  </lang>
+  <lang slug="Timezone server"> 
+    <text>منقه زمانی</text>
+  </lang>
+  <lang slug="Default language">  
+    <text>زبان اصلی</text>
+  </lang>
+  <lang slug="Add new language">  
+    <text>اضافه کردن زبان جدید</text>
+  </lang>
+  <lang slug="View demo"> 
+    <text>نمایش دمو</text>
+  </lang>
+  <lang slug="Register user"> 
+    <text>ثبت کاربر</text>
+  </lang>
+  <lang slug="Auto active user">  
+    <text>فعال شدن اتوماتیک کاربران</text>
+  </lang>
+  <lang slug="Follows / hour (user)"> 
+    <text>Follows / hour (user)</text>
+  </lang>
+  <lang slug="Follows back / hour (user)">  
+    <text>Follows back / hour (user)</text>
+  </lang>
+  <lang slug="Unfollows / hour (user)"> 
+    <text>Unfollows / hour (user)</text>
+  </lang>
+  <lang slug="Default delay every post on post now">  
+    <text>Default delay every post on post now</text>
+  </lang>
+  <lang slug="Minimum delay every post on post now">  
+    <text>Minimum delay every post on post now</text>
+  </lang>
+  <lang slug="Default delay every post on schedule">  
+    <text>Default delay every post on schedule</text>
+  </lang>
+  <lang slug="Minimum delay every post on schedule">  
+    <text>Minimum delay every post on schedule</text>
+  </lang>
+  <lang slug="Maximum size of file uploads">  
+    <text>حداکثر سایز فایل</text>
+  </lang>
+  <lang slug="MB">  
+    <text>مگابایت</text>
+  </lang>
+  <lang slug="Facebook ID"> 
+    <text>نام کاربری Facebook</text>
+  </lang>
+  <lang slug="Facebook Secret"> 
+    <text>Facebook Secret</text>
+  </lang>
+  <lang slug="Googe Client ID"> 
+    <text>Googe Client ID</text>
+  </lang>
+  <lang slug="Google Client Secret">  
+    <text>Google Client Secret</text>
+  </lang>
+  <lang slug="Twitter Consumer Secret"> 
+    <text>Twitter Consumer Secret</text>
+  </lang>
+  <lang slug="Facebook">  
+    <text>فیس بوک</text>
+  </lang>
+  <lang slug="Twitter"> 
+    <text>توئیتر</text>
+  </lang>
+  <lang slug="Pinterest"> 
+    <text>پینترست</text>
+  </lang>
+  <lang slug="Fullname is required">  
+    <text>ورود نام و نام خانوادگی الزامی است</text>
+  </lang>
+  <lang slug="Email is required"> 
+    <text>ورود پست الکترونیکی الزامی است</text>
+  </lang>
+  <lang slug="Invalid email format">  
+    <text>فرمت ایمیل شما صحیح نیست</text>
+  </lang>
+  <lang slug="Package is required"> 
+    <text>پکیج را انتخاب کنید</text>
+  </lang>
+  <lang slug="Expiration date is required"> 
+    <text>تاریخ انقضاء الزامی است</text>
+  </lang>
+  <lang slug="Timezone is required">  
+    <text>انتخاب منطقه زمانی الزامی است</text>
+  </lang>
+  <lang slug="Password is required">  
+    <text>کلمه عبور الزامی است</text>
+  </lang>
+  <lang slug="Passwords must be at least 6 characters"> 
+    <text>کلمه عبور حداقل باید 6 کاراکتر باشد</text>
+  </lang>
+  <lang slug="Password incorrect">  
+    <text>کلمه عبور صحیح نیست</text>
+  </lang>
+  <lang slug="Login successfully">  
+    <text>ورود با موفقیت انجام شد</text>
+  </lang>
+  <lang slug="Your account has not been activated"> 
+    <text>حساب کاربری شما فعال نشده است</text>
+  </lang>
+  <lang slug="Username or password incorrect">  
+    <text>نام کاربری یا کلمه عبور اشتباه است</text>
+  </lang>
+  <lang slug="Register successfully"> 
+    <text>Register successfully</text>
+  </lang>
+  <lang slug="Email already exists">  
+    <text>Email already exists</text>
+  </lang>
+  <lang slug="Admin"> 
+    <text>Admin</text>
+  </lang>
+  <lang slug="Expiration date"> 
+    <text>تاریخ پایان اعتبار</text>
+  </lang>
+  <lang slug="Timezone">  
+    <text>منطقه زمانی</text>
+  </lang>
+  <lang slug="Changed"> 
+    <text>تغییر یافت</text>
+  </lang>
+  <lang slug="No package">  
+    <text>No package</text>
+  </lang>
+  <lang slug="Update profile">  
+    <text>Update profile</text>
+  </lang>
+  <lang slug="Package info">  
+    <text>Package info</text>
+  </lang>
+  <lang slug="Time zone"> 
+    <text>Time zone</text>
+  </lang>
+  <lang slug="Re-password"> 
+    <text>تکرار کلمه عبور</text>
+  </lang>
+  <lang slug="Update user"> 
+    <text>ایجاد - ویرایش کاربر</text>
+  </lang>
+  <lang slug="Deleted"> 
+    <text>حذف شده</text>
+  </lang>
+  <lang slug="Select at least one item">  
+    <text>حداقل یک آیتم انتخاب کنید</text>
+  </lang>
+  <lang slug="Select at least one Instagram account"> 
+    <text>حداقل یک اکانت اینستاگرام انتخاب کنید</text>
+  </lang>
+  <lang slug="No data available in table">  
+    <text>اطلاعاتی برای نمایش در این جدول وجود ندارد</text>
+  </lang>
+  <lang slug="Please wait...">  
+    <text>چند لحظه صبر کنید ...</text>
+  </lang>
+  <lang slug="Please buy one of packages to use"> 
+    <text>لطفا اعتبار حساب خود را افزایش دهید</text>
+  </lang>
+  <lang slug="title"> 
+    <text>عنوان</text>
+  </lang>
+  <lang slug="Total success"> 
+    <text>ارسال موفق</text>
+  </lang>
+  <lang slug="Total failure"> 
+    <text>ارسال ناموفق</text>
+  </lang>
+  <lang slug="Total processing">  
+    <text>در صف ارسال</text>
+  </lang>
+  <lang slug="message success"> 
+    <text>پیغام موفق</text>
+  </lang>
+  <lang slug="message failure"> 
+    <text>پیغام ناموفق</text>
+  </lang>
+  <lang slug="message processing">  
+    <text>در صف ارسال</text>
+  </lang>
+  <lang slug="Follow Back">  
+    <text>فالوبَک</text>
+  </lang>
+
+
+  <lang slug="Newest">  
+    <text>جدیدترین</text>
+  </lang>
+  <lang slug="1 Hour">  
+    <text>1 ساعت</text>
+  </lang>
+  <lang slug="12 Hours">  
+    <text>12 ساعت</text>
+  </lang>
+  <lang slug="1 Day">  
+    <text>1 روز</text>
+  </lang>
+  <lang slug="3 Days">  
+    <text>3 روز</text>
+  </lang>
+  <lang slug="1 Week">  
+    <text>1 هفته</text>
+  </lang>
+  <lang slug="2 Weeks">  
+    <text>2 هفته</text>
+  </lang>
+  <lang slug="1 Month">  
+    <text>1 ماه</text>
+  </lang>
+  <lang slug="Any">  
+    <text>همه</text>
+  </lang>
+  <lang slug="This setting will help you to choose an age of media you want to interact with. From the newest one to the oldest.&lt;br/&gt;&lt;br/&gt; For example: select &lt;b&gt;1 Day&lt;/b&gt; if you want to interact only with media that not older than one day.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Newest&lt;/b&gt; media age was previously known as &lt;b&gt;New media only&lt;/b&gt;.">  
+    <text>This setting will help you to choose an age of media you want to interact with. From the newest one to the oldest.&lt;br/&gt;&lt;br/&gt; For example: select &lt;b&gt;1 Day&lt;/b&gt; if you want to interact only with media that not older than one day.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Newest&lt;/b&gt; media age was previously known as &lt;b&gt;New media only&lt;/b&gt;.</text>
+  </lang>
+  <lang slug="This setting lets you interact only with specific media type: &lt;b&gt;Photos&lt;/b&gt; or &lt;b&gt;Videos&lt;/b&gt;. Also, you can choose &lt;b&gt;Any&lt;/b&gt; to interact with any media type.">  
+    <text>This setting lets you interact only with specific media type: &lt;b&gt;Photos&lt;/b&gt; or &lt;b&gt;Videos&lt;/b&gt;. Also, you can choose &lt;b&gt;Any&lt;/b&gt; to interact with any media type.</text>
+  </lang>
+  <lang slug="Interact only with media that have minimum selected amount of likes.&lt;br/&gt;&lt;br/&gt; Use it along with &lt;b&gt;Max. likes filter&lt;/b&gt; to set desired range of media popularity.&lt;br/&gt;&lt;br/&gt; Recommended value: 0.&lt;br/&gt;&lt;br/&gt; Set to zero to disable this filter.">  
+    <text>Interact only with media that have minimum selected amount of likes.&lt;br/&gt;&lt;br/&gt; Use it along with &lt;b&gt;Max. likes filter&lt;/b&gt; to set desired range of media popularity.&lt;br/&gt;&lt;br/&gt; Recommended value: 0.&lt;br/&gt;&lt;br/&gt; Set to zero to disable this filter.</text>
+  </lang>
+  <lang slug="Interact only with media that have maximum selected amount of likes.&lt;br/&gt;&lt;br/&gt;Use it along with &lt;b&gt;Min. likes filter&lt;/b&gt; to set desired rangeof media popularity.&lt;br/&gt;&lt;br/&gt;Recommended values: 50-100.&lt;br/&gt;&lt;br/&gt;Set to zero to disable this filter.">  
+    <text>Interact only with media that have maximum selected amount of likes.&lt;br/&gt;&lt;br/&gt;Use it along with &lt;b&gt;Min. likes filter&lt;/b&gt; to set desired rangeof media popularity.&lt;br/&gt;&lt;br/&gt;Recommended values: 50-100.&lt;br/&gt;&lt;br/&gt;Set to zero to disable this filter.</text>
+  </lang>
+  <lang slug="Interact only with media that have minimum selected amount of comments.&lt;br/&gt;&lt;br/&gt;Use it along with &lt;b&gt;Max. comments filter&lt;/b&gt; to set desired rangeof media popularity.&lt;br/&gt;&lt;br/&gt;Recommended value: 0.&lt;br/&gt;&lt;br/&gt;Set to zero to disable this filter.">  
+    <text>Interact only with media that have minimum selected amount of comments.&lt;br/&gt;&lt;br/&gt;Use it along with &lt;b&gt;Max. comments filter&lt;/b&gt; to set desired rangeof media popularity.&lt;br/&gt;&lt;br/&gt;Recommended value: 0.&lt;br/&gt;&lt;br/&gt;Set to zero to disable this filter.</text>
+  </lang>
+  <lang slug="Interact only with media that have maximum selected amount of comments.&lt;br/&gt;&lt;br/&gt;Use it along with &lt;b&gt;Min. comments filter&lt;/b&gt; to set desired rangeof media popularity.&lt;br/&gt;&lt;br/&gt;Recommended values: 20-50.&lt;br/&gt;&lt;br/&gt;Set to zero to disable this filter.">  
+    <text>Interact only with media that have maximum selected amount of comments.&lt;br/&gt;&lt;br/&gt;Use it along with &lt;b&gt;Min. comments filter&lt;/b&gt; to set desired rangeof media popularity.&lt;br/&gt;&lt;br/&gt;Recommended values: 20-50.&lt;br/&gt;&lt;br/&gt;Set to zero to disable this filter.</text>
+  </lang>
+  <lang slug="This filter will help you to exclude your own followers/followings from Liking, Commenting and Following activity:&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Off&lt;/b&gt; - Filter is turned off.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Followers&lt;/b&gt; - You will not interact with your followers and their media.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Followings&lt;/b&gt; - You will not interact with your followings and their media.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Both&lt;/b&gt; - You will not interact with your followers and followings and their media.">  
+    <text>This filter will help you to exclude your own followers/followings from Liking, Commenting and Following activity:&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Off&lt;/b&gt; - Filter is turned off.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Followers&lt;/b&gt; - You will not interact with your followers and their media.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Followings&lt;/b&gt; - You will not interact with your followings and their media.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Both&lt;/b&gt; - You will not interact with your followers and followings and their media.</text>
+  </lang>
+  <lang slug="This filter will help you to avoid inappropriate and unwanted users and their media during your activity:&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Off&lt;/b&gt; - Filter is turned off.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Low&lt;/b&gt; - Excludes users who have no avatar or have no posted media.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Medium&lt;/b&gt; - Excludes users who have no avatar, have less than 10 postedmedia or have no name in the profile.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;High&lt;/b&gt; - Excludes users who have no avatar, have less than 30 postedmedia, have no name in the profile or have no bio.">  
+    <text>This filter will help you to avoid inappropriate and unwanted users and their media during your activity:&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Off&lt;/b&gt; - Filter is turned off.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Low&lt;/b&gt; - Excludes users who have no avatar or have no posted media.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Medium&lt;/b&gt; - Excludes users who have no avatar, have less than 10 postedmedia or have no name in the profile.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;High&lt;/b&gt; - Excludes users who have no avatar, have less than 30 postedmedia, have no name in the profile or have no bio.</text>
+  </lang>
+  <lang slug="Interact only with users that have minimum selected amount of followers.&lt;br/&gt;&lt;br/&gt;Use it along with &lt;b&gt;Max. followers filter&lt;/b&gt; to set desired rangeof users popularity.&lt;br/&gt;&lt;br/&gt;Recommended values: 0-50.&lt;br/&gt;&lt;br/&gt;Set to zero to disable this filter.">  
+    <text>Interact only with users that have minimum selected amount of followers.&lt;br/&gt;&lt;br/&gt;Use it along with &lt;b&gt;Max. followers filter&lt;/b&gt; to set desired rangeof users popularity.&lt;br/&gt;&lt;br/&gt;Recommended values: 0-50.&lt;br/&gt;&lt;br/&gt;Set to zero to disable this filter.</text>
+  </lang>
+  <lang slug="Interact only with users that have maximum selected amount of followers.&lt;br/&gt;&lt;br/&gt;Use it along with &lt;b&gt;Min. followers filter&lt;/b&gt; to set desired rangeof users popularity.&lt;br/&gt;&lt;br/&gt;Recommended values: 500-1000.&lt;br/&gt;&lt;br/&gt;Set to zero to disable this filter.">  
+    <text>Interact only with users that have maximum selected amount of followers.&lt;br/&gt;&lt;br/&gt;Use it along with &lt;b&gt;Min. followers filter&lt;/b&gt; to set desired rangeof users popularity.&lt;br/&gt;&lt;br/&gt;Recommended values: 500-1000.&lt;br/&gt;&lt;br/&gt;Set to zero to disable this filter.</text>
+  </lang>
+  <lang slug="Interact only with users that have minimum selected amount of followings.&lt;br/&gt;&lt;br/&gt;Use it along with &lt;b&gt;Max. followings filter&lt;/b&gt; to set desired rangeof users popularity.&lt;br/&gt;&lt;br/&gt;Recommended values: 50-100.&lt;br/&gt;&lt;br/&gt;Set to zero to disable this filter.">  
+    <text>Interact only with users that have minimum selected amount of followings.&lt;br/&gt;&lt;br/&gt;Use it along with &lt;b&gt;Max. followings filter&lt;/b&gt; to set desired rangeof users popularity.&lt;br/&gt;&lt;br/&gt;Recommended values: 50-100.&lt;br/&gt;&lt;br/&gt;Set to zero to disable this filter.</text>
+  </lang>
+  <lang slug="Interact only with users that have maximum selected amount of followings.&lt;br/&gt;&lt;br/&gt;Use it along with &lt;b&gt;Min. followings filter&lt;/b&gt; to set desired rangeof users popularity.&lt;br/&gt;&lt;br/&gt;Recommended values: 300-500.&lt;br/&gt;&lt;br/&gt;Set to zero to disable this filter.">  
+    <text>Interact only with users that have maximum selected amount of followings.&lt;br/&gt;&lt;br/&gt;Use it along with &lt;b&gt;Min. followings filter&lt;/b&gt; to set desired rangeof users popularity.&lt;br/&gt;&lt;br/&gt;Recommended values: 300-500.&lt;br/&gt;&lt;br/&gt;Set to zero to disable this filter.</text>
+  </lang>
+  <lang slug="&lt;b&gt;Off&lt;/b&gt; - Filter is turned off.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Female&lt;/b&gt; - Interact only with users and their mediawhose gender has been determined as female.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Male&lt;/b&gt; - Interact only with users and their mediawhose gender has been determined as male.&lt;br/&gt;&lt;br/&gt;&lt;span class=&#39;col-blue&#39;&gt;INFO:&lt;/span&gt; This filter analyzes fullnames of the user profiles and cannot guarantee 100% accuracy.&lt;br/&gt;&lt;br/&gt;&lt;span class=&#39;col-orange&#39;&gt;WARNING:&lt;/span&gt; This filter can slow downor completely stop your activity if the system will not be ableto find accounts based on the selected option.">  
+    <text>&lt;b&gt;Off&lt;/b&gt; - Filter is turned off.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Female&lt;/b&gt; - Interact only with users and their mediawhose gender has been determined as female.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;Male&lt;/b&gt; - Interact only with users and their mediawhose gender has been determined as male.&lt;br/&gt;&lt;br/&gt;&lt;span class=&#39;col-blue&#39;&gt;INFO:&lt;/span&gt; This filter analyzes fullnames of the user profiles and cannot guarantee 100% accuracy.&lt;br/&gt;&lt;br/&gt;&lt;span class=&#39;col-orange&#39;&gt;WARNING:&lt;/span&gt; This filter can slow downor completely stop your activity if the system will not be ableto find accounts based on the selected option.</text>
+  </lang>
+  <lang slug="Photos">  
+    <text>عکس</text>
+  </lang>
+  <lang slug="Videos">  
+    <text>ویدئو</text>
+  </lang>
+  <lang slug="Followings">  
+    <text>فالوئینگ</text>
+  </lang>
+  <lang slug="Both">  
+    <text>هر دو</text>
+  </lang>
+  <lang slug="Off">  
+    <text>خاموش</text>
+  </lang>
+  <lang slug="Low">  
+    <text>کم</text>
+  </lang>
+  <lang slug="Medium">  
+    <text>متوسط</text>
+  </lang>
+  <lang slug="High">  
+    <text>زیاد</text>
+  </lang>
+  <lang slug="Media age">  
+    <text>عمر رسانه</text>
+  </lang>
+  <lang slug="Media type">  
+    <text>نوع رسانه</text>
+  </lang>
+  <lang slug="Min. likes filter">  
+    <text>فیلتر حداقل لایک</text>
+  </lang>
+  <lang slug="Max. likes filter">  
+    <text>فیلتر حداکثر لایک</text>
+  </lang>
+  <lang slug="Min. comments filter">  
+    <text>فیلتر حداقل کامنت</text>
+  </lang>
+  <lang slug="Max. comments filter">  
+    <text>فیلتر حداکثر کامنت</text>
+  </lang>
+  <lang slug="User relation filter">  
+    <text>فیلتر روابط کاربر</text>
+  </lang>
+  <lang slug="User profile filter">  
+    <text>فیلتر پروفایل کاربر</text>
+  </lang>
+  <lang slug="Min. followers filter">  
+    <text>فیلتر حداقل فالوئر</text>
+  </lang>
+  <lang slug="Max. followers filter">  
+    <text>فیلتر حداکثر فالوئر</text>
+  </lang>
+  <lang slug="Min. followings filter">  
+    <text>فیلتر حداقل فالوینگ</text>
+  </lang>
+  <lang slug="Max. followings filter">  
+    <text>فیلتر حداکثر فالوئینگ</text>
+  </lang>
+  <lang slug="Gender filter">  
+    <text>فیلتر جنسیت</text>
+  </lang>
+  <lang slug="Filters">  
+    <text>انتخاب فیلترهای فعالیت</text>
+  </lang>
+  <lang slug="Female">  
+    <text>خانم</text>
+  </lang>
+  <lang slug="Male">  
+    <text>آقا</text>
+  </lang>
+  <lang slug="Delete media">  
+    <text>حذف رسانه</text>
+  </lang>
+  <lang slug="Delete Media">  
+    <text>حذف رسانه</text>
+  </lang>
+  <lang slug="Connect failure">  
+    <text>اتصال ناموفق</text>
+  </lang>
+  <lang slug="Delete media / hour (post)">  
+    <text>حذف رسانه در هر ساعت</text>
+  </lang>
+  <lang slug="Deleted media">  
+    <text>رسانه های پاک شده</text>
+  </lang>
+  <lang slug="Please go to &lt;a href=&#39;http://instagram.com/&#39; target=&#39;_blank&#39;&gt;http://instagram.com/&lt;/a&gt; to verify email and then login at here again">  
+    <text>Please go to &lt;a href=&#39;http://instagram.com/&#39; target=&#39;_blank&#39;&gt;http://instagram.com/&lt;/a&gt; to verify email and then login at here again</text>
+  </lang>
+
+  <!--Version 1.4-->
+  <lang slug="Maximum instagram accounts">  
+    <text>حداکثر تعداد اکانت اینستاگرام</text>
+  </lang>
+  <lang slug="Out of date! System auto stop all activity on your instagram accounts.">  
+    <text>اعتبار شما به پایان رسیده. لطفا اعتبار پنل خود را افزایش دهید</text>
+  </lang>
+  <lang slug="Out of date! Please select a package below to continue using">  
+    <text>اعتبار شما به پایان رسیده. لطفا اعتبار پنل خود را افزایش دهید</text>
+  </lang>
+  <lang slug="To start using app add your first Instagram account">  
+    <text>برای استفاده از امکانات پنل اتوماسیون اینستاگرام ابتدا باید اکانت اینستاگرام تان را به پنل متصل کنید</text>
+  </lang>
+  <lang slug="Make sure that e-mail, which you used for registration in Instagram is real, and you have access to it.">  
+    <text>از ایمیل های واقعی که برای همیشه به آن دسترسی دارید برای ثبت نام در اینستاگرام استفاده کنید تا هر زمانی که برای اکانت تان مشکلی پیش آمد بتوانید به راحتی آن را بازیابی کنید</text>
+  </lang>
+  <lang slug="E-mail, which you used for registration in Instagram is confirmed and approved by Instagram.">  
+    <text>حتماً ایمیل خود را تائید کنید! پس از ثبت نام به آدرس ایمیل شما یک ایمیل از طرف اینستاگرام ارسال می شود که لینک فعالسازی در آن قرار دارد. حتما روی آن کلیک کنید</text>
+  </lang>
+  <lang slug="It is strongly recommended to bind your Instagram account to any Facebook page.">  
+    <text>به شدت پیشنهاد می شود که پروفایل خود را به وضعیت Bussiness در بیاورید. در صورتی که اطلاعات بیشتری نیاز داشتید با پشتیبان سایت تماس بگیرید</text>
+  </lang>
+  <lang slug="Upload avatar and fill in your profile.">  
+    <text>قبل از اتصال اکانت اینستاگرام به پنل حتما تصویر پروفایل روی اکانت قرار دهید</text>
+  </lang>
+  <lang slug="Add at least 6 photos to your account from mobile phone.">  
+    <text>قبل از اتصال اکانت اینستاگرام به پنل حتماً حداقل 6 پست در اکانت قرار دهید</text>
+  </lang>
+  <lang slug="Ensure that your content does not violate the rules of Instagram. We are not responsible for your actions and their consequences.">  
+    <text>تمامی اطلاعات کاربران این پنل ثبت می گردد و در صورت نیاز این اطلاعات در دست مقامات قضایی قرار خواهد گرفت. از انتشار و فعالیت های مغایر با قوانین جمهوری اسلامی ایران خودداری کنید</text>
+  </lang>
+  <lang slug="How to use">  
+    <text>آموزش استفاده</text>
+  </lang>
+  <lang slug="I understand and close it">  
+    <text>متوجه شدم، صفحه را ببند</text>
+  </lang>
+  <lang slug="You need Extended License to your users can payment via paypal to use">  
+    <text>You need Extended License to your users can payment via paypal to use</text>
+  </lang>
+  <lang slug="Please check your email to reset password"> 
+    <text>ایمیل خود را چک کنید. لینک بازنشانی کلمه عبور برای شما ارسال شد</text>
+  </lang>
+  <lang slug="This email address does not exist"> 
+    <text>پست الکترونیکی وارد شده صحیح نیست</text>
+  </lang>
+  <lang slug="This email address does not exist"> 
+    <text>پست الکترونیکی وارد شده صحیح نیست</text>
+  </lang>
+  <lang slug="An error occurred. Please try again later"> 
+    <text>خطایی رخ داد. مجددا تلاش کنید</text>
+  </lang>
+  <lang slug="Click into link to reset your password">  
+    <text>روی لینک بازنشانی کلیک کنید تا روند بازنشانی اطلاعات آغاز شود</text>
+  </lang>
+  <lang slug="Forgot password"> 
+    <text>کلمه عبورم را فراموش کردم</text>
+  </lang>
+  <lang slug="Reset password">  
+    <text>بازنشانی کلمه عبور</text>
+  </lang>
+  <lang slug="Reset password key not exists"> 
+    <text>کلید بازنشانی کلمه عبور وجود ندارد</text>
+  </lang>
+  <lang slug="Remember me">
+    <text>مرا به خاطر بسپار</text>
+  </lang>
+  <lang slug="Report Post">  
+    <text>پست های ارسالی در یک نگاه</text>
+  </lang>
+  <lang slug="Report message">  
+    <text>پیام های ارسال شده در یک نگاه</text>
+  </lang>
+  <lang slug="First">  
+    <text>اولین</text>
+  </lang>
+  <lang slug="Last">  
+    <text>آخرین</text>
+  </lang>
+   <lang slug="Post Report"> 
+    <text>آمار کلی پست های زمان بندی شده</text>
+  </lang>
+  <lang slug="ACTIVITY REPORT">  
+    <text>آمار کلی فعالیت های خودکار انجام شده</text>
+  </lang>
+  <lang slug="Message Report">  
+    <text>آمار کلی دایرکت مسیج های ارسالی</text>
+  </lang>
+  <lang slug="Search">  
+    <text>جستجو</text>
+  </lang>
+    <lang slug="PHOTO CAROUSEL">  
+    <text>اسلایدر عکس</text>
+  </lang>
+  <lang slug="MAIL SETTINGS">  
+    <text>تنظیمات ارسال ایمیل</text>
+  </lang>
+    <lang slug="From name">  
+    <text>از نام</text>
+  </lang>
+    <lang slug="From email">  
+    <text>از ایمیل</text>
+  </lang>
+    <lang slug="SMTP Host">  
+    <text>میزبان SMTP</text>
+  </lang>
+    <lang slug="form-group">  
+    <text>از گروه</text>
+  </lang>
+    <lang slug="form-line">  
+    <text>از مسیر</text>
+  </lang>
+    <lang slug="SMTP Username">  
+    <text>نام کاربری SMTP</text>
+  </lang>
+  <lang slug="SMTP Port">  
+    <text>پورت SMTP</text>
+  </lang>
+  <lang slug="SMTP Password">  
+    <text>کلمه عبور SMTP</text>
+  </lang>
+  <lang slug="LINK SOCIAL PAGE">  
+    <text>لینک شبکه های اجتماعی</text>
+  </lang>
+  <lang slug="LOGIN SOCIAL">  
+    <text>ورود از طریق شبکه های اجتماعی</text>
+  </lang>
+  <lang slug="POST DEFAULT">  
+    <text>زمان بندی پست گذاری</text>
+  </lang> 
+    <lang slug="Instagram search">  
+    <text>جستجو در اینستاگرام</text>
+  </lang>
+      <lang slug="Instagram download">  
+    <text>دانلود از اینستاگرام</text>
+  </lang>
+      <lang slug="Proxy">  
+    <text>پروکسی</text>
+  </lang>
+      <lang slug="Select proxy">  
+    <text>پروکسی را انتخاب کنید</text>
+  </lang>
+      <lang slug="Using IP Host (Not recommend)">  
+    <text>استفاده از آی پی پیش فرض - به هیچ وجه پیشنهاد نمی شود</text>
+  </lang>
+      <lang slug="Proxy management">  
+    <text>مدیریت پروکسی</text>
+  </lang>
+      <lang slug="Update proxy">  
+    <text>ویرایش پروکسی</text>
+  </lang>
+  <lang slug="Example">  
+    <text>مثال</text>
+  </lang>
+  <lang slug="Likers">  
+    <text>لایک کنندگان</text>
+  </lang>
+  <lang slug="Commenters">  
+    <text>کامنت گذاران</text>
+  </lang>
+  <lang slug="Usernames Post">  
+    <text>پست کاربران اینستاگرام</text>
+  </lang>
+  <lang slug="My Post">  
+    <text>پست های خودم</text>
+  </lang>
+  <lang slug="My Account">  
+    <text>اکانت اینستاگرام خودم</text>
+  </lang>
+  <lang slug="Like + Follows">  
+    <text>لایک + فالو</text>
+  </lang>
+  <lang slug="">  
+    <text></text>
+  </lang>
+  <lang slug="">  
+    <text></text>
+  </lang>
+  <lang slug="">  
+    <text></text>
+  </lang>
+  <lang slug="">  
+    <text></text>
+  </lang>
+  <lang slug="">  
+    <text></text>
+  </lang>
+  <lang slug="">  
+    <text></text>
+  </lang>
+  <lang slug="">  
+    <text></text>
+  </lang>
+  <lang slug="">  
+    <text></text>
+  </lang>
+  <lang slug="">  
+    <text></text>
+  </lang>
+  <lang slug="">  
+    <text></text>
+  </lang>
+</data>
